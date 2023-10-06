@@ -13,3 +13,4 @@ Projeto_2_Lista-contatos_mod2
 - HTML
 - CSS
 
+Obs: Projeto Não responsivo
